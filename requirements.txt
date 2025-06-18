@@ -1,0 +1,13 @@
+# LangChain core
+langchain
+langchain_openai
+langchain-community
+
+# Chroma
+chromadb
+
+# 
+tiktoken
+
+# Document Loader
+pypdf
